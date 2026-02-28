@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 :root {
     --background: #1f242b;
     --lighter-background: #303842;
@@ -15,7 +14,9 @@
     padding: 0;
     box-sizing: border-box;
 
-    font-family: "Lexend", sans-serif;
+    font-family: "Tinos", serif;
+    font-style: normal;
+    font-weight: 100;
 
     scroll-behavior: smooth;
 
